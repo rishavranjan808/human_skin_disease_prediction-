@@ -11,8 +11,8 @@ B)Human Emotion Detection using Body Motions: Based on the movements provided by
 2) THE GENEVA MULTIMODAL EXPRESSION CORPUS FOR EXPERIMENTAL RESEARCH ON EMOTION PERCEPTION. https://www.unige.ch/cisa/gemep
 
 #Previous Works 
-1) Feature Representation and Data Augmentation for Human Activity Classification Based on Wearable IMU Sensor Data Using a Deep LSTM Neural Network.Steven Eyobu O, Han DS. Feature Representation and Data Augmentation for Human Activity Classification Based on Wearable IMU Sensor Data Using a Deep LSTM Neural Network. Sensors (Basel). 2018 Aug 31;18(9):2892. doi: 10.3390/s18092892. PMID: 30200377; PMCID: PMC6165524. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165524/
-2) algorithm for detection and analysis of emotion using body language. https://ieeexplore.ieee.org/document/7375234
-3) Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution Neural Networks. https://doi.org/10.1016/j.procs.2019.05.038
+1) Steven Eyobu O, Han DS. Feature Representation and Data Augmentation for Human Activity Classification Based on Wearable IMU Sensor Data Using a Deep LSTM Neural Network. Sensors (Basel). 2018 Aug 31;18(9):2892. doi: 10.3390/s18092892. PMID: 30200377; PMCID: PMC6165524.
+2) S. Singh, V. Sharma, K. Jain and R. Bhall, "EDBL - algorithm for detection and analysis of emotion using body language," 2015 1st International Conference on Next Generation Computing Technologies (NGCT), Dehradun, India, 2015, pp. 820-823, doi: 10.1109/NGCT.2015.7375234.
+3) R. Santhoshkumar, M. Kalaiselvi Geetha,Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution Neural Networks,Procedia Computer Science,Volume 152,2019,Pages 158-165,ISSN 1877-0509,https://doi.org/10.1016/j.procs.2019.05.038.https://www.sciencedirect.com/science/article/pii/S1877050919306908)
 
 
