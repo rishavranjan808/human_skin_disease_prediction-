@@ -11,5 +11,8 @@ B)Human Emotion Detection using Body Motions: Based on the movements provided by
 2) THE GENEVA MULTIMODAL EXPRESSION CORPUS FOR EXPERIMENTAL RESEARCH ON EMOTION PERCEPTION. https://www.unige.ch/cisa/gemep
 
 #Previous Works 
+1) Feature Representation and Data Augmentation for Human Activity Classification Based on Wearable IMU Sensor Data Using a Deep LSTM Neural Network. DOI: 10.3390/s18092892
+2) algorithm for detection and analysis of emotion using body language. DOI: 10.1109/NGCT.2015.7375234
+3) Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution Neural Networks. https://doi.org/10.1016/j.procs.2019.05.038
 
 
