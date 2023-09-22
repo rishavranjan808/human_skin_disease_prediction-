@@ -7,7 +7,8 @@ B)Human Emotion Detection using Body Motions: Based on the movements provided by
 
 
 #Datasets
-
+1) MoVi: A large multi-purpose human motion and video dataset. https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0253157
+2) THE GENEVA MULTIMODAL EXPRESSION CORPUS FOR EXPERIMENTAL RESEARCH ON EMOTION PERCEPTION. https://www.unige.ch/cisa/gemep
 
 #Previous Works 
 
