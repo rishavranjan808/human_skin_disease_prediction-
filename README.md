@@ -36,23 +36,8 @@ We have developed machine learning models capable of accurately identifying skin
 
 Our information platform is designed to provide patients and caregivers with comprehensive information about various skin diseases. It includes details on symptoms, diagnostic procedures, treatment options, and preventive measures. This platform empowers individuals to make informed decisions about their health.
 
-## Getting Started
 
-To get started with using or contributing to this project, follow the steps below.
 
-### Prerequisites
 
-- Python 3.x
-- TensorFlow (for machine learning models)
-- Flask (for the information platform)
-- Docker (for easy deployment)
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/YourUsername/YourRepository.git
-   cd YourRepository
 
 
