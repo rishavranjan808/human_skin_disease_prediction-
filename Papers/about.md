@@ -1,4 +1,4 @@
- # This section contains the Literature which I read and referenced while working on the project.
+ # Papers Read
 
 - [ ] A Method Of Skin Disease Detection Using Image Processing And Machine Learning (https://www.sciencedirect.com/science/article/pii/S1877050919321295?ref=pdf_download&fr=RR-2&rr=80f7e1413fac889b)
 - [ ] AI‑based localization and classifcation of skin disease with erythema (https://www.nature.com/articles/s41598-021-84593-z)
