@@ -1,24 +1,59 @@
-# Human_feature_extraction
-Human motion data can be used for extracting valuable information for example user identification,emotion recognition etc. The inherent characteristics embedded in human-generated motion data offer a unique opportunity to understand and analyze user behavior on a deeper level. This project aims to leverage machine learning techniques to extract, identify, and verify motions in order to achieve two primary objectives: User identification and Emotion recognition. The main objectives of this project are: 
+# Human Skin disease detection and Information database
+# Human Skin Disease Detection and Information Database
 
-A) User Identification: In this project we will try to implement a user identification system using Machine Learning. Every individual has their own pattern of motion and this system should be able to identify these patterns, using these patterns the system should identify the users. The system tries to identify the user without having information about their faces. 
+![Project Image](project_image.png)
 
-B)Human Emotion Detection using Body Motions: Based on the movements provided by the users the system should be able to recognize the emotions like sad, happy, angry etc. Similarly to the first objective, it tries to classify emotions without information of face. The project has a huge significance as it has potential applications in the field of security, mental health and human computer interaction.
+[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepository.svg)](https://github.com/YourUsername/YourRepository/blob/main/LICENSE)
 
+> Welcome to the Human Skin Disease Detection and Information Database project. This repository hosts a dataset for skin disease images, machine learning models for disease detection, and an information platform for skin disease education.
 
-#Datasets
-1) MoVi: A large multi-purpose human motion and video dataset. https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0253157
-2) THE GENEVA MULTIMODAL EXPRESSION CORPUS FOR EXPERIMENTAL RESEARCH ON EMOTION PERCEPTION. https://www.unige.ch/cisa/gemep
+**Table of Contents**
 
-#Previous Works 
-1) Steven Eyobu O, Han DS. Feature Representation and Data Augmentation for Human Activity Classification Based on Wearable IMU Sensor Data Using a Deep LSTM Neural Network. Sensors (Basel). 2018 Aug 31;18(9):2892. doi: 10.3390/s18092892. PMID: 30200377; PMCID: PMC6165524.
-   (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165524/)
-2) S. Singh, V. Sharma, K. Jain and R. Bhall, "EDBL - algorithm for detection and analysis of emotion using body language," 2015 1st International Conference on Next Generation Computing Technologies (NGCT), Dehradun, India, 2015, pp. 820-823, doi: 10.1109/NGCT.2015.7375234.
-   (https://ieeexplore.ieee.org/document/7375234)
-3) R. Santhoshkumar, M. Kalaiselvi Geetha,
-Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution Neural Networks,
-Procedia Computer Science,Volume 152,2019,Pages 158-165,ISSN 1877-0509,https://doi.org/10.1016/j.procs.2019.05.038.
-(https://www.sciencedirect.com/science/article/pii/S1877050919306908)
-   
+- [About the Project](#about-the-project)
+  - [Dataset](#dataset)
+  - [Machine Learning Models](#machine-learning-models)
+  - [Information Platform](#information-platform)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+This project aims to address the challenges of skin disease diagnosis and patient education. It provides resources for both healthcare professionals and patients:
+
+### Dataset
+
+Our dataset contains a diverse collection of skin disease images, including both common and uncommon conditions. It serves as a valuable resource for training and evaluating machine learning models for disease detection.
+
+### Machine Learning Models
+
+We have developed machine learning models capable of accurately identifying skin diseases from images. These models can assist healthcare professionals in diagnosis and can be integrated into healthcare systems.
+
+### Information Platform
+
+Our information platform is designed to provide patients and caregivers with comprehensive information about various skin diseases. It includes details on symptoms, diagnostic procedures, treatment options, and preventive measures. This platform empowers individuals to make informed decisions about their health.
+
+## Getting Started
+
+To get started with using or contributing to this project, follow the steps below.
+
+### Prerequisites
+
+- Python 3.x
+- TensorFlow (for machine learning models)
+- Flask (for the information platform)
+- Docker (for easy deployment)
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/YourUsername/YourRepository.git
+   cd YourRepository
 
 
