@@ -3,7 +3,6 @@
 
 ![Project Image](project_image.png)
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepository.svg)](https://github.com/YourUsername/YourRepository/blob/main/LICENSE)
 
 > Welcome to the Human Skin Disease Detection and Information Database project. This repository hosts a dataset for skin disease images, machine learning models for disease detection, and an information platform for skin disease education.
 
