@@ -10,7 +10,7 @@
 
 - [About the Project](#about-the-project)
   - [Dataset](#dataset)
-  - [Machine Learning Models](#machine-learning-models)
+  - [Codes](#code)
   - [Information Platform](#information-platform)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
