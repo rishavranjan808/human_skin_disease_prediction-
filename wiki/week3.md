@@ -10,5 +10,7 @@
 ---
 
 ## Notes
-
+Crete a papers section and keep all the previous works there.
+update the wiki every week.
+Over leaf
 
