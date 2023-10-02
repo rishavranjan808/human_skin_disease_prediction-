@@ -12,13 +12,9 @@
   - [Dataset](#dataset)
   - [Codes](#code)
   - [Information Platform](#information-platform)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  - [Weekly Updates](#wiki)
+
+
 
 ## About the Project
 
