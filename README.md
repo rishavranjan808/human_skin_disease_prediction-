@@ -1,4 +1,4 @@
-# Human Skin disease detection and Information database
+
 # Human Skin Disease Detection and Information Database
 
 ![Project Image](project_image.png)
