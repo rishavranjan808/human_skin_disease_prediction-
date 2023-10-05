@@ -4,7 +4,8 @@
 ![Project Image](project_image.png)
 
 
-> Welcome to the Human Skin Disease Detection and Information Database project. This repository hosts a dataset for skin disease images, machine learning models for disease detection, and an information platform for skin disease education.
+>Welcome to the Human Skin Disease Detection and Information Database project. This repository hosts a dataset for skin disease images, machine learning models for disease detection, and an information platform for skin disease education.
+>The project uses a diverse collection of real-world skin disease images from DermNet. This dataset includes both common and rare skin conditions, making it an invaluable resource for training our detection models.
 
 **Table of Contents**
 
