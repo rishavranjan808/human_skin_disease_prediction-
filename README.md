@@ -34,7 +34,7 @@ The DermNet dataset is a fundamental component of this project, providing a dive
 
 - **Challenges and Opportunities:** While the dataset is extensive and rich, it also presents challenges related to class imbalance, label accuracy, and data augmentation for rare conditions. Addressing these challenges is an integral part of our research efforts.
 
-- **Data Access:** You can access the DermNet dataset for research purposes by downloading it from [(https://dermnetnz.org/image-library)]. For detailed information on dataset usage, data format, and licensing, please refer to the `dataset/README.md` directory.
+- **Data Access:** You can access the DermNet dataset for research purposes by downloading it from [[https://dermnetnz.org/image-library]]. For detailed information on dataset usage, data format, and licensing, please refer to the `dataset/README.md` directory.
 
 By leveraging the DermNet dataset, this project aims to advance the field of dermatology, improve skin disease diagnosis, and empower individuals with accurate information about various skin conditions.
 
