@@ -6,7 +6,7 @@
 - [ ] Overview slides
 - [ ] GitHub repository
 - [ ] Search of other dataset containing more information
-- [ ] 
+ 
 
 ---
 
