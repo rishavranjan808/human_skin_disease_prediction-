@@ -1,11 +1,11 @@
 # Week 3 Tasks
 
 - [x] Meet supervisor
-- [ ] Review literature
+- [ ] Review literature (Continued to week 4)
 - [x] Test out scripts/data (extracting data/skeleton)
-- [ ] Overview slides
-- [ ] GitHub repository
-- [ ] Overleaf (setup template)
+- [x] Overview slides
+- [x] GitHub repository
+- [x] Overleaf (setup template)
 
 ---
 
