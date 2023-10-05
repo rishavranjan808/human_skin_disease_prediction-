@@ -1,19 +1,6 @@
 
 # Human Skin Disease Detection and Information Database
 
-![Project Image](project_image.png)
-
-
-
-
-**Table of Contents**
-
-- [About the Project](#about-the-project)
-  - [Dataset](#dataset)
-  - [Codes](#code)
-  - [Information Platform](#information-platform)
-  - [Weekly Updates](#wiki)
-
 
 
 ## About the Project
