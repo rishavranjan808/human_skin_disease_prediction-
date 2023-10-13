@@ -5,7 +5,7 @@
 - [ ] Test out scripts/data (classification on different body parts)
 - [ ] Overview slides
 - [ ] GitHub repository
-- [ ] Start testing image segmentation
+- [ ] Report Writing
  
 
 ---
