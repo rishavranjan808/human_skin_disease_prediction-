@@ -11,5 +11,6 @@
 ---
 
 ## Notes
-
+Very less Datasets arew present on certain diseases
+Synthetic Data can be a solution
 
