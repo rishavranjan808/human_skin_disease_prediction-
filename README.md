@@ -2,6 +2,8 @@
 # Human Skin Disease Detection and Information Database
 
 
+### Report 
+https://www.overleaf.com/project/651a97e7b66bfbce92f23903
 
 ## About the Project
 
