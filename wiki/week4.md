@@ -1,11 +1,11 @@
 # Week 4 Tasks
 
 - [ ] Meet supervisor
-- [ ] Review literature 
-- [ ] Test out scripts/data (simple classification)
+- [x] Review literature 
+- [x] Test out scripts/data (simple classification)
 - [ ] Overview slides
 - [ ] GitHub repository
-- [ ] Search of other dataset containing more information
+- [x] Search of other dataset containing more information
  
 
 ---
@@ -13,4 +13,4 @@
 ## Notes
 
 
-
+No other Datasets found where all the disease information were updated.
